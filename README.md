@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xooreyy
+- 👋 Hi, I’m Xooreyy
 - 👀 I’m interested in coding ^^
 - 🌱 I’m currently learning JavaScrpit
 - 📫 How to reach me 
