@@ -38,7 +38,7 @@
    </a>
   &emsp;
   <a href="https://kotlinlang.org" target="_blank"> 
-    <img alt="Kotlin" src="https://i1.wp.com/yellowcodebooks.com/wp-content/uploads/2017/06/kotlin_logo.png?ssl=1">
+    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin%20-%23F7DF1E.svg?style=plastic&logo=Kotlin&logoColor=black">
   </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
