@@ -18,7 +18,7 @@
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Xooreyy" alt="Xorey" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Xooreyy&theme=algolia" alt="Xorey" /></p>
 
 <br>
 <br>
