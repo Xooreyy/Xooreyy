@@ -112,5 +112,8 @@
    <a href="https://github.com/Xooreyy"><img alt="Xorey's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Xooreyy&custom_title=Xooreyy's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
+## :trophy: Git profile Trophies
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Xooreyy&layout=compact&theme=algolia" alt="Xooreyy" /></a> </p>
 
 <br/>
