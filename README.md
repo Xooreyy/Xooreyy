@@ -41,6 +41,10 @@
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
+  &emsp;
+   <a href="https://www.typescriptlang.org" target="_blank"> 
+    <img alt="Typescript" src="https://img.shields.io/badge/Typescript-%23007396.svg?style=plastic&logo=Typescript&logoColor=white">
+  </a>
 </p>
 
  ### 👉 Software & Tools
