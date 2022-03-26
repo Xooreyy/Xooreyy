@@ -35,7 +35,7 @@
    </a>
   &emsp;
   <a href="https://kotlinlang.org" target="_blank"> 
-    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%23007396.svg?style=plastic&logo=Kotlin&logoColor=black">
+    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%23007396.svg?style=plastic&logo=Kotlin&logoColor=white">
   </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
