@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Xorey <img src="https://cdn.discordapp.com/avatars/488737871747088384/b310e1ec1a79f88345d5779af4d0364d.png" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/Xooreyy"><img src="https://readme-typing-svg.herokuapp.com?lines=Discord+Bot+Developer;Competitive+Programmer;ACPC+2021+Finalist;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(3%20Stars);6%20Kyu%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Xooreyy"><img src="https://readme-typing-svg.herokuapp.com?lines=Discord+Bot+Developer;Competitive+Programmer;Discord:+Xorey#1111;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(3%20Stars);6%20Kyu%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 
