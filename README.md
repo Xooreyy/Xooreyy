@@ -10,11 +10,6 @@
 	<img src="https://komarev.com/ghpvc/?username=Xooreyy&label=Profile%20views&color=0e75b6&style=plastic" alt="Xooreyy" /> 
 </p>
 
-
-## :sassy_man:  About me
-- 🤖 Im always available on Discord `Xorey#1111`
-- 🤓 Always `learning new things`
-
 <br>
 
 ## 🔥 Streak Stats
